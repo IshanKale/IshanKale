@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IshanKale&label=Profile%20views&color=0e75b6&style=flat" alt="ishankale" /> </p>
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=IshanKale&theme=onedark" alt="IshanKale" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=IshanKale&theme=dracula&no-frame=true&margin-w=15" alt="IshanKale" />
 </p>
 
 - 🌱 I’m currently learning **Artificial Intelligence, Machine Learning, Deep Learning, and modern software engineering practices**

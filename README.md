@@ -8,7 +8,6 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence, Machine Learning, Deep Learning, and modern software engineering practices**
 
-- 👨‍💻 All of my projects are available at [https://leetcode.com/u/IshanKale/](https://leetcode.com/u/IshanKale/)
 
 - 💬 Ask me about **Python, MERN Stack, Git/GitHub, Open Source, and Web Development**
 

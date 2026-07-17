@@ -7,7 +7,7 @@
 ██║ ██╔════╝ ██║  ██║ ██╔══██╗ ████╗  ██║    ██║ ██╔╝ ██╔══██╗ ██║      ██╔════╝
 ██║ ███████╗ ███████║ ███████║ ██╔██╗ ██║    █████╔╝  ███████║ ██║      █████╗  
 ██║ ╚════██║ ██╔══██║ ██╔══██║ ██║╚██╗██║    ██╔═██╗  ██╔══██║ ██║      ██╔══╝  
-██║ ███████║ ██║  ██║ ██║  ██║ ██║ ╚████║    ██║  ██╗ ██║  ██║ ███████╗ ███████╗
+██║ ███████║ ██║  ██║ ██║  ██║ ██║ ╚████║    ██║  ██╗ ██║  ██║ ███████╗ ██████╗ 
 ╚═╝ ╚══════╝ ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚═╝  ╚═══╝    ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚══════╝ ╚══════╝
 ```
 
@@ -105,16 +105,16 @@ I am a **Full-Stack Web & AI Developer** focused on building high-performance ap
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=ishankale&show_icons=true&locale=en&bg_color=171717&title_color=ffd43b&text_color=f5f5f5&icon_color=ffd43b&border_color=575757" alt="Ishan's GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=ishankale&show_icons=true&locale=en&bg_color=171717&title_color=ffd43b&text_color=f5f5f5&icon_color=ffd43b&border_color=575757&border_radius=10" alt="Ishan's GitHub Stats" />
     </td>
     <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ishankale&show_icons=true&locale=en&layout=compact&bg_color=171717&title_color=ffd43b&text_color=f5f5f5&icon_color=ffd43b&border_color=575757" alt="Ishan's Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ishankale&show_icons=true&locale=en&layout=compact&bg_color=171717&title_color=ffd43b&text_color=f5f5f5&icon_color=ffd43b&border_color=575757&border_radius=10&langs_count=10" alt="Ishan's Top Languages" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
       <br />
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishankale&background=171717&border=575757&fire=ffd43b&ring=ffd43b&currStreakNum=f5f5f5&sideNums=f5f5f5&currStreakLabel=a8a8a8&sideLabels=a8a8a8&dates=a8a8a8" alt="Ishan's Streak Stats" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishankale&background=171717&border=575757&fire=ffd43b&ring=ffd43b&currStreakNum=f5f5f5&sideNums=f5f5f5&currStreakLabel=a8a8a8&sideLabels=a8a8a8&dates=a8a8a8" alt="Ishan's GitHub Streak" />
     </td>
   </tr>
 </table>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 60" width="100%" height="60">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;display=swap');
+      .prompt { font-family: 'Press Start 2P', monospace; fill: #51cf66; font-size: 14px; font-weight: bold; }
+      .command { font-family: 'Press Start 2P', monospace; fill: #ffd43b; font-size: 14px; font-weight: bold; }
+    </style>
+  </defs>
+  <rect x="2" y="2" width="796" height="56" rx="4" fill="#171717" stroke="#575757" stroke-width="2" />
+  <text x="20" y="36" class="prompt">visitor@ishan:~$ <tspan class="command">cat experience.log</tspan></text>
+</svg>

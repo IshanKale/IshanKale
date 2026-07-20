@@ -1,42 +1,23 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=IshanKale&label=SYSTEM%20BOOTS&color=ffd43b&style=flat-square" alt="Ishan's System Boots" />
+  <img src="./readme-assets/welcome.svg" width="100%" alt="Hi, I'm Ishan Kale" />
 </p>
 
-```text
-██╗ ███████╗ ██╗  ██╗ █████╗   ███╗   ██╗    ██╗  ██╗ █████╗   ██║      ███████╗
-██║ ██╔════╝ ██║  ██║ ██╔══██╗ ████╗  ██║    ██║ ██╔╝ ██╔══██╗ ██║      ██╔════╝
-██║ ███████╗ ███████║ ███████║ ██╔██╗ ██║    █████╔╝  ███████║ ██║      █████╗  
-██║ ╚════██║ ██╔══██║ ██╔══██║ ██║╚██╗██║    ██╔═██╗  ██╔══██║ ██║      ██╔══╝  
-██║ ███████║ ██║  ██║ ██║  ██║ ██║ ╚████║    ██║  ██╗ ██║  ██║ ███████╗ ██████╗ 
-╚═╝ ╚══════╝ ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚═╝  ╚═══╝    ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚══════╝ ╚══════╝
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/%E2%97%8F-Available%20for%20Opportunities-51cf66?style=flat-square&labelColor=171717&color=51cf66" alt="Status" />
+  <img src="https://komarev.com/ghpvc/?username=IshanKale&label=SYSTEM%20BOOTS&color=ffd43b&style=flat-square" alt="System Boots" />
+</p>
 
-```text
-+-------------------------------------------------------------------------------+
-|  ISHAN-OS v1.0.0 (BIOS Date: 07/18/2026)                                      |
-+-------------------------------------------------------------------------------+
-|  SYSTEM STATUS: ONLINE | PORTFOLIO MODE: 8-BIT RETRO TERMINAL                 |
-|  CPU: AI-POWERED NEURAL CORE | ARCHITECTURE: FULL-STACK / ML                  |
-+-------------------------------------------------------------------------------+
-```
-
-## 📟 C:\> whoami.exe
-
-> Loading developer_profile...
-
-I am a **Full-Stack Web & AI Developer** focused on building high-performance applications and machine learning integrations. I turn complex ideas into smooth, responsive digital experiences.
-
-*  🌱 Currently learning: **Artificial Intelligence, Machine Learning, Deep Learning, and Modern Software Engineering**
-* 💬 Ask me about: **Python, MERN Stack, Git/GitHub, Open Source, and Web Development**
-* ⚡ Fun fact: **I love turning ideas into projects and learning something new every single day.**
+<p align="center">
+  <i>"I build full-stack web applications — from real-time chat systems to AI-powered tools — using Node.js, React, and MongoDB. Competitive programmer with 1600+ LeetCode rating. Always shipping something real."</i>
+</p>
 
 ---
 
-## 📁 C:\> ls skills/
+<p align="center">
+  <img src="./readme-assets/skills.svg" width="100%" alt="visitor@ishan:~$ ls -la skills/" />
+</p>
 
-> Listing directory contents...
-
-### 🛠️ Languages
+### 🛠️ Languages & Core
 <p align="left">
   <img src="https://img.shields.io/badge/--Python-ffd43b?style=flat-square&logo=python&logoColor=ffd43b&labelColor=171717" alt="Python" />
   <img src="https://img.shields.io/badge/--C%2B%2B-ffd43b?style=flat-square&logo=c%2B%2B&logoColor=ffd43b&labelColor=171717" alt="C++" />
@@ -69,67 +50,112 @@ I am a **Full-Stack Web & AI Developer** focused on building high-performance ap
 
 ---
 
-## 🚀 C:\> ./run_projects.sh
+<p align="center">
+  <img src="./readme-assets/projects.svg" width="100%" alt="visitor@ishan:~$ ./run_projects.sh" />
+</p>
 
-> Executing build and listing projects...
-
-* **Resume Analyser**
-  * *AI-powered resume feedback tool featuring real-time analysis and suggestions.*
-  * Stack: `Node.js` `React` `Groq AI`
-* **WhatsApp Clone**
-  * *Real-time messaging platform using Socket.IO integration for live messaging.*
-  * Stack: `React` `Node.js` `MongoDB` `Socket.IO`
-* **Airbnb Clone**
-  * *Property listing marketplace REST API and services.*
-  * Stack: `Node.js` `Express` `MongoDB`
-
----
-
-## ⏳ C:\> cat experience.log
-
-> Loading log data...
-
-* **Cyber Security Analyst (Virtual)** @ Deloitte Australia *[Jul 2025]*
-  * Analyzed web logs, investigated potential security breaches, and documented threat intelligence reports.
-* **Data Analytics Intern** @ Vodafone Idea Foundation *[Nov-Dec 2024]*
-  * Applied LLMs and custom prompts to process, analyze, and visualize complex data sets.
+* 🛒 **E-Commerce Platform**
+  * *A robust, fully functional shopping platform.*
+  * Stack: `React` `Node.js` `Express` `MongoDB`
+  * Links: [GitHub](https://github.com/IshanKale/e-commerce) | [Live Demo](https://e-commerce-smoky-sigma.vercel.app/)
+* 📝 **Resume Analyser**
+  * *AI-powered resume feedback tool.*
+  * Stack: `React` `Node.js` `Groq AI`
+  * Links: [GitHub](https://github.com/IshanKale/resume-analyser)
 
 ---
 
-## 📊 C:\> ping -c 4 stats.sys
+<p align="center">
+  <img src="./readme-assets/experience.svg" width="100%" alt="visitor@ishan:~$ cat experience.log" />
+</p>
 
-> Pinging GitHub metrics API...
-> 64 bytes from api.github.com: icmp_seq=1 ttl=64 time=0.87ms
-> System stats loaded:
+* 🕵️ **Cyber Security Analyst (Virtual)** @ Deloitte Australia *[Jul 2025]*
+  * Analysed web logs, investigated breaches, and verified threats.
+* 📊 **Data Analytics Intern** @ Vodafone Idea Foundation *[Nov 2024]*
+  * Applied AI models to improve data processing and analytical insights.
+* 🎓 **Student Researcher** @ VIT Pune *[Mar 2026]*
+  * Published a paper on AI-driven data science workflows and presented conference findings.
+* 🌐 **Contributor** @ SSoC 2026 *[Jun-Aug 2026]*
+  * Contributing to production open-source software architectures.
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
+---
+
+<p align="center">
+  <img src="./readme-assets/achievements.svg" width="100%" alt="visitor@ishan:~$ dir achievements_and_certs/" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Hackathon_Hours-25-ffd43b?style=for-the-badge&labelColor=171717&color=ffd43b" alt="Hackathon Hours" />
+  <img src="https://img.shields.io/badge/Projects_Shipped-18-ffd43b?style=for-the-badge&labelColor=171717&color=ffd43b" alt="Projects Shipped" />
+</p>
+
+* 📄 **Paper Presentation: Keystroke Behaviour Analysis** @ ICEARS 2026 *(Feb 2026)*
+* 🎓 **Full Stack Developer Certification** @ IBM *(Jun 2025)*
+* 🛡️ **Cyber Security Training Certificate** @ Vodafone Idea Foundation *(Nov 2024)*
+* 📊 **Data Visualization Certificate** @ Online Certification *(Aug 2024)*
+* 🏆 **Hackathon Finalist** @ VIT Pune - *Created a custom visual parquet analysis tool.*
+* 📈 **Competitive Programming** - *Top percentile rank across multiple coding contests.*
+
+---
+
+<p align="center">
+  <img src="./readme-assets/stats.svg" width="100%" alt="visitor@ishan:~$ ping -c 4 stats.sys" />
+</p>
+
+<table align="center" border="0" cellpadding="8" cellspacing="8">
   <tr>
-    <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=ishankale&show_icons=true&locale=en&bg_color=171717&title_color=ffd43b&text_color=f5f5f5&icon_color=ffd43b&border_color=575757&border_radius=10" alt="Ishan's GitHub Stats" />
+    <td bgcolor="#171717" width="380" valign="top" style="border: 1px solid #575757;">
+      <p align="center">
+        <b>💻 GITHUB CARD</b><br/>
+        <hr color="#575757" size="1" />
+        <br/>
+        <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fishankale&query=%24.public_repos&style=flat-square&color=ffd43b&labelColor=171717&label=REPOSITORIES" /><br/>
+        <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fishankale&query=%24.followers&style=flat-square&color=ffd43b&labelColor=171717&label=FOLLOWERS" /><br/>
+        <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fishankale&query=%24.public_gists&style=flat-square&color=ffd43b&labelColor=171717&label=GISTS" />
+      </p>
     </td>
-    <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ishankale&show_icons=true&locale=en&layout=compact&bg_color=171717&title_color=ffd43b&text_color=f5f5f5&icon_color=ffd43b&border_color=575757&border_radius=10&langs_count=10" alt="Ishan's Top Languages" />
+    <td bgcolor="#171717" width="380" valign="top" style="border: 1px solid #575757;">
+      <p align="center">
+        <b>💡 LEETCODE CARD</b><br/>
+        <hr color="#575757" size="1" />
+        <br/>
+        <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Falfa-leetcode-api.onrender.com%2FuserProfile%2Fishankale&query=%24.totalSolved&style=flat-square&color=ffd43b&labelColor=171717&label=SOLVED" /><br/>
+        <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Falfa-leetcode-api.onrender.com%2FuserProfile%2Fishankale&query=%24.ranking&style=flat-square&color=ffd43b&labelColor=171717&label=RANKING" /><br/>
+        <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Falfa-leetcode-api.onrender.com%2FuserProfile%2Fishankale&query=%24.reputation&style=flat-square&color=ffd43b&labelColor=171717&label=REPUTATION" />
+      </p>
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
-      <br />
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishankale&background=171717&border=575757&fire=ffd43b&ring=ffd43b&currStreakNum=f5f5f5&sideNums=f5f5f5&currStreakLabel=a8a8a8&sideLabels=a8a8a8&dates=a8a8a8" alt="Ishan's GitHub Streak" />
+    <td bgcolor="#171717" width="380" valign="top" style="border: 1px solid #575757;">
+      <p align="center">
+        <b>🎯 CODEFORCES CARD</b><br/>
+        <hr color="#575757" size="1" />
+        <br/>
+        <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3Dishankale&query=%24.result%5B0%5D.rating&style=flat-square&color=ffd43b&labelColor=171717&label=RATING" /><br/>
+        <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3Dishankale&query=%24.result%5B0%5D.maxRating&style=flat-square&color=ffd43b&labelColor=171717&label=MAX%20RATING" /><br/>
+        <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3Dishankale&query=%24.result%5B0%5D.rank&style=flat-square&color=ffd43b&labelColor=171717&label=RANK" />
+      </p>
+    </td>
+    <td bgcolor="#171717" width="380" valign="top" style="border: 1px solid #575757;">
+      <p align="center">
+        <b>🍳 CODECHEF CARD</b><br/>
+        <hr color="#575757" size="1" />
+        <br/>
+        <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodechef-api.onrender.com%2Fapi%2Fishankale&query=%24.rating&style=flat-square&color=ffd43b&labelColor=171717&label=RATING" /><br/>
+        <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodechef-api.onrender.com%2Fapi%2Fishankale&query=%24.highestRating&style=flat-square&color=ffd43b&labelColor=171717&label=MAX%20RATING" /><br/>
+        <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodechef-api.onrender.com%2Fapi%2Fishankale&query=%24.stars&style=flat-square&color=ffd43b&labelColor=171717&label=STARS" />
+      </p>
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=IshanKale&theme=dracula" alt="Ishan's Github Trophies" />
-</p>
-
 ---
 
-## 🔗 C:\> cat contact.cfg
+<p align="center">
+  <img src="./readme-assets/contact.svg" width="100%" alt="visitor@ishan:~$ cat contact.cfg" />
+</p>
 
-> Reading configuration parameters...
-
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/ishan-kale-587b3b281" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-ffd43b?style=for-the-badge&logo=linkedin&logoColor=ffd43b&labelColor=171717" alt="LinkedIn" />
   </a>
